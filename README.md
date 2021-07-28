@@ -1,7 +1,6 @@
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
-# robo-nd-project2
-
-Go Chase It! - Robotics Software Engineer Nanodegree @Udacity
+# Go Chase It!
+Robotics Software Engineer Nanodegree @Udacity
 
 A differential drive mobile robot that chases a white ball using image processing.
 To interact with the scene just move the ball around in Gazebo. As long as it's in the camera FOV, the robot drives towards it.
