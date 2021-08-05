@@ -5,6 +5,8 @@ Robotics Software Engineer Nanodegree @Udacity
 A differential drive mobile robot that chases a white ball using image processing.
 To interact with the scene just move the ball around in Gazebo. As long as it's in the camera FOV, the robot drives towards it.
 
+![](chasing.gif "Project Demo")
+
 The Gazebo world design intends to replicate the **WorldSkills Mobile Robotics** next challange in a simplified version.
 For more information please take a look on a brief competition overview at the end.
 
